@@ -33,3 +33,12 @@ ul {
 ol {
     list-style-type: upper-alpha;
 }
+
+.bordered {
+    border: 1px solid rgb(233, 17, 17);
+    }
+    .dashed-border {
+    border-width: 1px;
+    border-style: dashed;
+    border-color: red;
+    }

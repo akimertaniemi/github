@@ -19,6 +19,7 @@ div {color: white;
     border-width: 2px;
     height: 100px;
     width: 100px;
+    text-align: center;
 }
 
 ol {
@@ -42,3 +43,16 @@ ol {
     border-style: dashed;
     border-color: red;
     }
+
+progress {
+    color: white(245, 244, 244);
+}    
+
+a {
+    color: white;
+    text-align: center;
+}
+
+figure {
+    color: white;
+}

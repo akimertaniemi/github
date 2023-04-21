@@ -1,0 +1,93 @@
+
+div {
+    background-color: rgba(169, 169, 169, 0.267);
+    width: 100%;
+    height: 30px;
+    color: white;
+    display: block;
+    list-style-type: disc;
+}
+
+body {
+    margin: 0px;
+    background-color:black
+}
+
+h1 {
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    text-align: center;
+    font-family: sans-serif;
+    left: 50%;
+}
+
+p {
+    font-family: Verdana;
+    font-size: 12px;
+    color: black;
+    text-align: center;  
+}
+
+ul {
+    color: black
+}
+
+ol {
+    color: white;
+    list-style-type: none
+}
+
+progress {
+    color: white;
+}    
+
+a {
+    color: rgba(169, 169, 169, 0.267);
+    text-align: center;
+    position: relative;
+    background-color: gray;
+}
+
+h3 {
+    text-align: center;
+}
+
+#sivu {
+    background-color: rgba(169, 169, 169, 0.267);
+    position: relative; left: 50%;
+    color: white;
+    width: 100%;
+}
+
+#div2 {
+    color: white;
+    background-color: blue;
+    text-align: center;
+    width: 100%;
+}
+
+nav {
+    float: left;
+  width: 25%;
+  height: 800px; 
+  background: #ccc;
+  margin-bottom: 0px;
+}
+
+article {
+    float: right;
+    width: 75%;
+    background-color: #f1f1f1;
+    height: 300px;
+}
+
+footer {
+    background-color: #777;
+    text-align: center;
+    color: white;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}

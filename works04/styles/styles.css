@@ -1,9 +1,9 @@
 body {
-    background-color:black
+    background-color:lightblue
 }
 
 h1 {
-    color: white;
+    color: black;
     text-align: left;
     font-size: 20px;
 }
@@ -11,48 +11,45 @@ h1 {
 p {
     font-family: Verdana;
     font-size: 12px;
-    color: lightgrey;
+    color: black;
+    border: solid;width: 10%;
+    text-align: center;  
 }
 
-div {color: white;
-    border: dotted;
-    border-width: 2px;
-    height: 100px;
-    width: 100px;
-    text-align: center;
-}
-
-ol {
-    color: white;
+p.round3 {
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
 }
 
 ul {
-    color: white;
-    list-style-type: square;
+    color: black
 }
 
 ol {
-    list-style-type: upper-alpha;
+    color: white;
+    list-style-type: none
 }
 
-.bordered {
-    border: 1px solid rgb(233, 17, 17);
-    }
-    .dashed-border {
-    border-width: 1px;
-    border-style: dashed;
-    border-color: red;
-    }
-
 progress {
-    color: white(245, 244, 244);
+    color: white;
 }    
 
 a {
-    color: white;
+    color: black;
     text-align: center;
 }
 
 figure {
-    color: white;
+    background-color: white;
+    color: black;
+    border:solid;width: 16%;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+}
+
+h3 {
+    color: black
 }

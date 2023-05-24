@@ -1,0 +1,31 @@
+body {
+    background: linear-gradient(to bottom, #eed7d7, #1d4953);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+.wrapper {
+    flex: 1;
+  }
+.content {
+    margin-bottom: 20px;
+  }
+.navbar-brand img {
+    height: 80px;
+    margin-right: 10px;
+  }
+.navbar-brand .site-name {
+    font-family: 'Pacifica Condensed', sans-serif;
+  }
+h2 {
+    font-family: 'Pacifica Condensed', sans-serif;
+  }
+h1 {
+    font-family: 'Pacifica Condensed', sans-serif;
+  }
+li {
+    font-family: 'Pacifica Condensed', sans-serif;
+}
+p {
+
+}
